@@ -5,7 +5,7 @@ J'ai créé l'ensemble du jeu sauf la musique du combat (duel of the fates de jo
 J'ai créé les meshs des personnages sur Blender et rajouté quelques couleurs et matériaux,
 j'ai rig les personnages sur Blender (mettre des os en coloriant les parties du mesh qui doit s'animer avec l'os),
 j'ai animé les actions (attaquer, avancer, reculer, parader...) des personnages sur Blender (à la main avec des keyframes),
-j'ai animé deux cinématiques (en fonction de quel personnage tue l'autre) su Blender.
+j'ai animé deux cinématiques (en fonction de quel personnage tue l'autre) sur Blender.
 
 J'ai créé les décors sur Blender (trois maisons dupliqués pour donner l'impression d'une ville).
 
